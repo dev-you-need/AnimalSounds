@@ -1,0 +1,31 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 27
+    buildToolsVersion "27.0.3"
+    defaultConfig {
+        applicationId "com.deerslab.animalsounds"
+        minSdkVersion 14
+        targetSdkVersion 27
+        versionCode 7
+        versionName '1.07'
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+        }
+    }
+    productFlavors {
+    }
+
+    lintOptions {
+        disable 'MissingTranslation'
+    }
+
+}
+
+dependencies {
+    implementation fileTree(include: ['*.jar'], dir: 'libs')
+    testImplementation 'junit:junit:4.12'
+    implementation 'com.android.support:appcompat-v7:27.1.1'
+}

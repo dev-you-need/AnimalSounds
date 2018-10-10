@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tierstimmen</string>
+    <string name="ant">Ameise</string>
+    <string name="badger">Dachs</string>
+    <string name="bear">Bär</string>
+    <string name="beaver">Biber</string>
+    <string name="bee">Biene</string>
+    <string name="birds">Vögel</string>
+    <string name="boar">Eber</string>
+    <string name="bullfinch">Gimpel</string>
+    <string name="bumblebee">Hummel</string>
+    <string name="cat">Katze</string>
+    <string name="chicken">Huhn</string>
+    <string name="cow">Kuh</string>
+    <string name="chafer">Maikäfer</string>
+    <string name="cricket">	Grille</string>
+    <string name="crow">	Kolkrabe</string>
+    <string name="cuckoo"> Kuckuck</string>
+    <string name="deer">	Hirsch</string>
+    <string name="dog">Hund</string>
+    <string name="domesticAnimal">	Haustier</string>
+    <string name="donkey">	Esel</string>
+    <string name="dragonfly">	Wasserjungfer</string>
+</resources>

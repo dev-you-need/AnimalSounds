@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="10dp"
+    android:background="#7b7b7b">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1">
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/btnDomestic"
+            android:layout_weight="1"
+            style="@style/MainMenu"
+
+            android:background="@drawable/cat"
+            android:scaleType="center"
+            android:adjustViewBounds="true"
+            android:text="@string/domesticAnimal"
+            />
+
+        <Button
+            style="@style/MainMenu"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/btnWild"
+            android:layout_weight="1"
+
+            android:background="@drawable/wolf"
+            android:scaleType="center"
+            android:adjustViewBounds="true"
+
+            android:text="@string/wildAnimals"
+
+            />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1">
+
+        <Button
+            style="@style/MainMenu"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/btnBirds"
+            android:layout_weight="1"
+
+            android:background="@drawable/pigeon"
+
+            android:text="@string/birds"
+
+            />
+
+        <Button
+            style="@style/MainMenu"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/btnInsect"
+            android:layout_weight="1"
+
+            android:background="@drawable/mosquito"
+
+            android:text="@string/insect"
+
+            />
+    </LinearLayout>
+</LinearLayout>

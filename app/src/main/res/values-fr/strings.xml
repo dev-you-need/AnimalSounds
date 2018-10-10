@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Des sons d\'animaux</string>
+    <string name="ant">fourmi</string>
+    <string name="badger">Blaireau</string>
+    <string name="bear">Ours</string>
+    <string name="beaver">Castor</string>
+    <string name="bee">Abeille</string>
+    <string name="birds">Des oiseaux</string>
+    <string name="boar">Sanglier</string>
+    <string name="bumblebee">Bourdon</string>
+    <string name="bullfinch">Bouvreuil</string>
+    <string name="cat"> Chat</string>
+    <string name="chicken">poulet</string>
+    <string name="cow">vache</string>
+    <string name="chafer">	hanneton</string>
+    <string name="cricket">	cri-cri</string>
+    <string name="crow">	corneille</string>
+    <string name="cuckoo">	coucou</string>
+    <string name="deer">	cerf</string>
+    <string name="dog">	chien</string>
+    <string name="domesticAnimal">Animaux de compagnie</string>
+    <string name="donkey">Aliboron</string>
+    <string name="dragonfly">	odonates</string>
+</resources>

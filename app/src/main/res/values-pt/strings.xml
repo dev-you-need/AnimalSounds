@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sons de animais</string>
+    <string name="ant">formiga</string>
+    <string name="badger">Texugo</string>
+    <string name="bear">Urso</string>
+    <string name="beaver">Castor</string>
+    <string name="bee">Abelha</string>
+    <string name="birds">Aves</string>
+    <string name="boar">Javali</string>
+    <string name="bullfinch">Pisco-chilreiro</string>
+    <string name="bumblebee">Zangão</string>
+    <string name="cat">Gato</string>
+    <string name="chicken">frango</string>
+    <string name="cow">vaca</string>
+    <string name="chafer">besouro</string>
+    <string name="cricket">grilo</string>
+    <string name="crow">corvo</string>
+    <string name="cuckoo">cuco</string>
+    <string name="deer">cervo</string>
+    <string name="dog">cão</string>
+    <string name="domesticAnimal">Animais de estimação</string>
+    <string name="donkey">burro</string>
+    <string name="dragonfly">libélula</string>
+</resources>
